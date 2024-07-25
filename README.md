@@ -12,8 +12,10 @@ The project performs the following tasks:
 
 
 
-![kr](https://github.com/user-attachments/assets/bdae3893-c67c-4cfd-8c58-1d1a7a292785)
-![kr2](https://github.com/user-attachments/assets/52307801-0451-4eba-b162-5da09f32cfc9)
+
+![kr](https://github.com/user-attachments/assets/0e5ba96e-cd3e-4243-8bc3-ebd43e73035f)
+![kr2](https://github.com/user-attachments/assets/9e83283b-b9a2-4131-b171-b8e51e743463)
+
 
 
 
